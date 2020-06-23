@@ -1,0 +1,46 @@
+
+body{
+    background-image: url("Digital Water.jpg");
+  
+  margin: 0px;
+  }
+  
+  
+  .nn {
+    text-align: center;
+  }
+  .nn > ul {
+    display: inline-block;
+  }
+  
+  div.welcome {
+  
+      text-align: center;
+      background-color:rgb(215, 239, 250);
+      
+  }
+  
+  div.introduction {
+  
+      text-align: right;
+      
+  }
+  
+     div.body2{
+         text-align: right;
+     }
+
+     div.intro{
+
+        text-align: center;
+        background-color: aqua;
+     }
+div.last{
+
+    text-align: center;
+    background-color: aqua;
+}
+
+p{
+    padding: 70px;
+}
